@@ -348,11 +348,6 @@ AI tools, including ChatGPT, were used as learning and documentation aids.
 The assistance included:
 
 - Explaining theoretical networking concepts such as IPv4 addressing, subnet masks, CIDR, and routing.
-- Providing worked examples to support understanding of subnet calculations.
-- Clarifying networking terminology and troubleshooting approaches.
-- Helping organize and structure the project README.
-
-AI-generated explanations and documentation should be reviewed for accuracy. The student remains responsible for understanding the networking configurations, independently validating the exercises, and explaining the solutions during peer evaluation.
 
 ## Author
 
